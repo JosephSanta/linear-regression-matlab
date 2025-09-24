@@ -56,7 +56,7 @@ It demonstrates how to implement **linear regression from scratch** using MATLAB
 
 ```
 
-├── Código fuente MATLAB/
+├── MATLAB/
 │ ├── calculeCosto.m
 │ ├── calculeCostoMulti.m
 │ ├── calentamiento.m
